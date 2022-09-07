@@ -1,7 +1,5 @@
 # recon.cloud-cli
-A bash script for scanning AWS public cloud footprint and getting suddomains, service name, cname and region from [recon.cloud](https://recon.cloud/) 
-
-
+A bash script for scanning AWS, Azure and GCP public cloud footprint and getting suddomains, service name, cname and region from [recon.cloud](https://recon.cloud/) 
 
 ## ⚙ Installation
 ```bash
@@ -20,14 +18,14 @@ chmod +x recon-cloud.sh
 ## 📔 Usage
 ```
 ❯ ./recon-cloud.sh -h
-[*] A bash script for scanning AWS public cloud footprint and getting suddomains, service name, cname and region from recon.cloud.
+[*] A bash script for scanning AWS, Azure and GCP public cloud footprint and getting suddomains, service name, cname and region from recon.cloud.
 
-Syntax: ./subdomain-enum.sh [-d|h|]
+Syntax: ./recon-cloud.sh [-d|h|]
 options:
 d :     Takes domain name as input.
 h :     Print this Help.
 
-example ./subdomain-enum.sh -d example.org 
+example ./recon-cloud.sh -d example.org 
 
 This comand print output on terminal and also save it in recon.cloud.txt
 ```
