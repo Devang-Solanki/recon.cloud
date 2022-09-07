@@ -10,7 +10,7 @@ Blue='\033[0;34m'         # Blue
 Help()
 {
    # Display Help
-   echo -e "${Yellow}[*] A bash script for scanning AWS public cloud footprint and getting suddomains, service name, cname and region from recon.cloud.${NC}"
+   echo -e "${Yellow}[*] A bash script for scanning AWS, Azure and GCP public cloud footprint and getting suddomains, service name, cname and region from recon.cloud.${NC}"
    echo
    echo -e "${Green}Syntax: ./recon-cloud.sh${NC} ${Blue}[-d|h|]${NC}"
    echo -e "${Green}options:${NC}"
