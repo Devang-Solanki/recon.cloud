@@ -42,5 +42,6 @@ If you want to contribute to this project then:
 - Submitting an issue because you have found a bug or you have any suggestion or request.
 
 ## 💡 TODO
+- Implementing everything in GO.
 - Option for output in different format eg: JSON, CSV etc
 - Option for output in different location
