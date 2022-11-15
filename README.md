@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://unlicense.org/"><img src="https://img.shields.io/badge/license-Unlicense-_red.svg"></a>
 <a href="https://goreportcard.com/badge/Devang-Solanki/recon.cloud"><img src="https://goreportcard.com/badge/github.com/Devang-Solanki/recon.cloud"></a>
+<a href="https://go.dev/blog/go1.19"><img src="https://img.shields.io/github/go-mod/go-version/Devang-Solanki/recon.cloud"></a>
 <a href="https://twitter.com/devangsolankii"><img src="https://img.shields.io/twitter/follow/devangsolankii.svg?logo=twitter"></a>
 </p>
 <p align="center">
