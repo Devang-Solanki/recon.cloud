@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-A go tool for scanning AWS, Azure and GCP public cloud footprint from <a href="https://recon.cloud/">recon.cloud</a
+<a href="https://recon.cloud/">recon.cloud</a> is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
 </p>
 
 <h1 align="center">
