@@ -102,7 +102,7 @@ func reconCloud(domain string, onlyIP bool, outFile string) {
         var step string
 
         for step != "finished" {
-            time.Sleep(2 * time.Second)
+            time.Sleep(3 * time.Second)
             statusReq, err := http.Get("https://recon.cloud/api/get_status?request_id=" + reqID)
             logError(err)
             defer statusReq.Body.Close()
