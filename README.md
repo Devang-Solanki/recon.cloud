@@ -28,7 +28,7 @@ recon.cloud requires go1.19 to install successfully. Run the following command t
 ```
 go install github.com/Devang-Solanki/recon.cloud@latest
 ```
-Or you can download the pre-built binary.
+or you can download the pre-built binary.
 
 ## 📔 Usage
 #### `recon.cloud -h` will print help menu
