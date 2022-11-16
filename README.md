@@ -1,7 +1,7 @@
-<h1 align="center">
-  <a herf="https://recon.cloud/"><img src="https://user-images.githubusercontent.com/75718583/202103206-e9805a17-0cf1-4f86-9983-b1a7b4aaf725.svg" alt="recon.cloud"></a>
+<p align="center">
+  <a href="https://recon.cloud/"><img src="https://user-images.githubusercontent.com/75718583/202103206-e9805a17-0cf1-4f86-9983-b1a7b4aaf725.svg" alt="recon.cloud"></a>
   <br>
-</h1>
+</p>
 <p align="center">
 <a href="https://unlicense.org/"><img src="https://img.shields.io/badge/license-Unlicense-_red.svg"></a>
 <a href="https://goreportcard.com/badge/Devang-Solanki/recon.cloud"><img src="https://goreportcard.com/badge/github.com/Devang-Solanki/recon.cloud"></a>
