@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://recon.cloud/static/media/cloud-recon-logo.8a2189a42dd71bb33bb39b2b986ee13b.svg" alt="recon.cloud" width="200px"></a>
+  <img src="https://user-images.githubusercontent.com/75718583/202103206-e9805a17-0cf1-4f86-9983-b1a7b4aaf725.svg" alt="recon.cloud" width="200px"></a>
   <br>
 </h1>
 <p align="center">
