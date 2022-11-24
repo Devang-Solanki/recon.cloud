@@ -17,6 +17,9 @@
 
 <p align="center">
 <a href="https://recon.cloud/">recon.cloud</a> is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
+
+
+NOTE: This tool will not work anymore because of cloudflare bot protection. Wait for some months till <a href="https://recon.cloud/">recon.cloud</a> develope a proper API for us to use.
 </p>
 
 <h1 align="center">
