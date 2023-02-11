@@ -103,3 +103,5 @@ If you want to contribute to this project then:
 - Using multiple threads for better speed
 - Option for output in different format eg: JSON, CSV etc
 - Option for filtering based on resources like s3, ec2 etc
+
+<a href="https://www.buymeacoffee.com/devangsolankii" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" /></a>
